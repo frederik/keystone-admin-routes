@@ -1,5 +1,4 @@
 # KeystoneJS Admin Routes Workaround
-===================================
 
 Replaces the hardcoded admin route /keystone with a route of your choosing (uses string replaces since they are hard coded in keystone).
 
@@ -18,7 +17,7 @@ See [keystonejs 627](https://github.com/keystonejs/keystone/issues/627), [keysto
 
 (The MIT License)
 
-Copyright (c) 2015 Jed Watson
+Copyright (c) 2015 Frederik Eichler
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
