@@ -1,0 +1,18 @@
+{
+  "name": "keystone-admin-routes",
+  "version": "0.0.1",
+  "description": "Changes keystonejs routes to use a subdirectory instead of the hardcoded /keystone",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frederik/keystone-admin-routes.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keystonejs"
+  ],
+  "author": "Frederik Eichler",
+  "license": "MIT"
+}
