@@ -1,3 +1,11 @@
+# Outdated
+
+Please check out keystonejs [issue 52](https://github.com/keystonejs/keystonejs-site/issues/52). You can use
+
+    keystone.set('admin path', 'somepath')
+    
+as soon as this [pull request](https://github.com/keystonejs/keystone/pull/1820) has made it into npm.
+
 # KeystoneJS Admin Routes Workaround
 
 Replaces the hardcoded admin route /keystone with a route of your choosing (uses string replaces since they are hard coded in keystone).
